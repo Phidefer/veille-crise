@@ -1,0 +1,50 @@
+[
+ {
+  "date": "2026-10-12",
+  "brent": 106.65,
+  "wti": 93.74,
+  "type": "Clôture",
+  "source": "Nation Thailand",
+  "url": "https://www.nationthailand.com/news/world/40072180"
+ },
+ {
+  "date": "2026-10-19",
+  "brent": 109.55,
+  "wti": null,
+  "type": "Clôture",
+  "source": "Nation Thailand",
+  "url": "https://www.nationthailand.com/news/world/40072496"
+ },
+ {
+  "date": "2026-10-20",
+  "brent": 108.79,
+  "wti": 97.82,
+  "type": "Clôture",
+  "source": "Express Tribune",
+  "url": "https://tribune.com.pk/story/2635975/brent-falls-as-irans-president-discusses-mediation-with-cdf-munir"
+ },
+ {
+  "date": "2026-10-23",
+  "brent": 116.72,
+  "wti": 103.27,
+  "type": "Clôture",
+  "source": "Vantage Markets",
+  "url": "https://www.vantagemarkets.com/market-news/brent-crude-oil-price-today-after-6-percent-weekly-gain-october-26-2026/"
+ },
+ {
+  "date": "2026-10-26",
+  "brent": 115.81,
+  "wti": 101.76,
+  "type": "Clôture",
+  "source": "Reuters via Investing.com",
+  "url": "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306"
+ },
+ {
+  "date": "2026-10-27",
+  "brent": 114.93,
+  "wti": 100.9,
+  "type": "Séance (14 h 30 UTC)",
+  "source": "MoneyCheck / Wall Street Journal",
+  "url": "https://moneycheck.com/oil-prices-today-brent-and-wti-swing-as-iran-talks-continue"
+ }
+]

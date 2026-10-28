@@ -1,0 +1,1 @@
+<html><head><style>body{margin:0;font-size:7px}</style></head><body><div style='font-family:Inter;font-size:7px;color:#8a94a6;width:100%;padding:0 12mm;display:flex;justify-content:space-between'><span>Veille de crise Moyen-Orient · état au 28 oct. 2026, 12 h 50 UTC</span><span><span class='pageNumber'></span> / <span class='totalPages'></span></span></div></body></html>

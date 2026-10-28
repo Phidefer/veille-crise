@@ -1,0 +1,50 @@
+[
+ {
+  "axe": "Vue d’ensemble",
+  "tendance": "Incertaine",
+  "score": 0.9,
+  "resume": "Sur 12 h, le front saoudien continue de s’étendre : missiles interceptés au-dessus de Riyad et de Taïf, impact revendiqué à Ras Tanura et une attaque contre des stations de pompage. Côté Iran, Washington prépare apparemment une campagne après les élections du 3 novembre, et l’IRGC annonce Ormuz fermé ; mais la diplomatie régionale se poursuit. La tendance reste au plus haut de la zone incertaine.",
+  "score_prec": 0.8,
+  "tendance_prec": "Incertaine"
+ },
+ {
+  "axe": "Houthis → Arabie saoudite",
+  "tendance": "Escalade",
+  "score": 2.0,
+  "resume": "Sur 12 h : missiles interceptés au-dessus de Riyad et de Taïf, impact revendiqué à Djeddah (non confirmé), frappes revendiquées sur Ras Tanura et drones sur trois stations de pompage du pipeline est-ouest. Les Houthis revendiquent 3 379 frappes depuis le début de l’escalade.",
+  "score_prec": 2.0,
+  "tendance_prec": "Escalade"
+ },
+ {
+  "axe": "États-Unis ↔ Iran",
+  "tendance": "Incertaine",
+  "score": 0.6,
+  "resume": "Sur 12 h : selon le Wall Street Journal, Washington avertit les pays du Golfe d’une campagne courte et intense contre l’Iran après les midterms. Trump n’a pas encore donné d’ordre ; la diplomatie se poursuit. Légère hausse des signaux de frappe.",
+  "score_prec": 0.5,
+  "tendance_prec": "Incertaine"
+ },
+ {
+  "axe": "Détroit d’Ormuz et blocus",
+  "tendance": "Escalade",
+  "score": 1.6,
+  "resume": "Sur 12 h : l’IRGC annonce le détroit fermé après des frappes revendiquées sur quatre tankers ; Trump qualifie ces attaques d’inventées. Un pétrolier signalé en feu près de l’Irak. Trafic toujours bloqué, sans confirmation indépendante.",
+  "score_prec": 1.3,
+  "tendance_prec": "Escalade"
+ },
+ {
+  "axe": "Israël ↔ Iran",
+  "tendance": "Incertaine",
+  "score": 0.5,
+  "resume": "Sur 12 h : après le scrutin, le NYT et des responsables rapportent que Netanyahou a poussé pour une frappe ; selon des rapports, des généraux l’auraient freinée. Le Pentagone renforce la défense aérienne d’Israël avec un Patriot supplémentaire.",
+  "score_prec": 0.2,
+  "tendance_prec": "Incertaine"
+ },
+ {
+  "axe": "Diplomatie régionale",
+  "tendance": "Désescalade",
+  "score": -0.6,
+  "resume": "Sur 12 h : pourparlers saoudiens, turcs et pakistanais avec l’Iran (lundi à Téhéran), sommet Poutine–Pezeshkian à Moscou, Iran qui se dit « très positif » sur les discussions. Les 12 heures d’avant : même tendance, moins marquée.",
+  "score_prec": -0.9,
+  "tendance_prec": "Désescalade"
+ }
+]

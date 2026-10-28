@@ -1,0 +1,29 @@
+[
+ {
+  "n": 1,
+  "niveau": "Probable",
+  "horizon": "D’ici au 3 novembre",
+  "titre": "Statu quo armé et pression maximale",
+  "resume": "Washington **ne frappe pas avant les élections américaines** et maintient la menace des 96 heures, le blocus et le renforcement naval pour arracher une négociation. **Téhéran garde Ormuz fermé comme levier** et évite la provocation directe, pendant que **les Houthis élargissent leurs tirs** (Riyad, Est pétrolier, bases du Sud). La diplomatie régionale (Arabie saoudite, Turquie, Pakistan, Qatar, Russie) se poursuit sans percée.",
+  "indicateurs": "Absence d’ordre présidentiel, Trump renvoyant à « plus tard » ; Poursuite des pourparlers régionaux avec Téhéran ; Retenue israélienne maintenue après le scrutin",
+  "consequences": "**Brent durablement au-dessus de 110 $** ; Trafic aérien saoudien toujours perturbé ; Ormuz quasi fermé, incidents de mines ponctuels"
+ },
+ {
+  "n": 2,
+  "niveau": "Possible",
+  "horizon": "Après le 3 novembre",
+  "titre": "Frappes américaines massives sur l’Iran",
+  "resume": "Faute d’accord, Trump ordonne **une campagne de frappes de grande ampleur**, possiblement avec Israël, visant les capacités militaires, énergétiques et nucléaires. L’Iran **riposte immédiatement contre les bases et personnels américains** (Bahreïn, Al Udeid, Prince Sultan) et ferme totalement Ormuz ; les Houthis intensifient leurs frappes sur l’Arabie saoudite.",
+  "indicateurs": "**Nouveaux départs ordonnés** dans les ambassades américaines du Golfe ; NOTAM et fermetures d’espaces aériens supplémentaires ; Déplacement des groupes aéronavals, arrivée du Theodore Roosevelt ; Rupture déclarée des contacts diplomatiques",
+  "consequences": "**Pertes possibles parmi les forces américaines** ; Saut brutal du Brent ; Fermeture de l’espace aérien du Golfe et des grands aéroports"
+ },
+ {
+  "n": 3,
+  "niveau": "Disruptif",
+  "horizon": "À tout moment",
+  "titre": "Engrenage accidentel ou frappe surprise",
+  "resume": "Un incident **force la main avant le calendrier prévu** : navire américain touché par une mine, attaque meurtrière contre des forces américaines, **action israélienne unilatérale** après le scrutin, ou frappe houthie dévastatrice sur une installation saoudienne majeure. Washington frappe dans l’urgence et l’Iran étend ses représailles aux **infrastructures énergétiques du Golfe**, entraînant une guerre régionale ouverte.",
+  "indicateurs": "Incident naval impliquant un bâtiment américain ; Frappe revendiquée par Israël ou « action distincte » de Netanyahou ; Coup au but confirmé sur Ras Tanura, Abqaiq ou Ghawar ; **Extension des combats à Bab el-Mandeb et attaque houthie contre l’Égypte**",
+  "consequences": "**Guerre régionale** impliquant l’Arabie saoudite et ses alliés ; Ormuz miné durablement, choc pétrolier majeur ; Fermeture généralisée des espaces aériens du Golfe"
+ }
+]
